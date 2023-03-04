@@ -1,2 +1,2 @@
-console.log('Hello World Fellas.js');
+console.log('Hello.js');
 console.log('World');
